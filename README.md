@@ -25,6 +25,9 @@ Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Oracle Linux Automation Manager](https://img.shields.io/badge/Oracle%20Linux%20Automation%20Manager-FF2D00?style=flat-square&logo=oracle&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 ![Zabbix](https://img.shields.io/badge/Zabbix-2E92C6?style=flat-square&logo=zabbix&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white)
 
@@ -52,6 +55,7 @@ Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing 
 ### 🔧 System Administration
 - **Server Setup & Configuration:** RHEL, Ubuntu, CentOS, OEL.
 - **Webserver Management:** Apache, Nginx.
+- **Cloud Services:** AWS, Azure.
 - **Patch Management:** Oracle Linux Manager| Spacewalk.
 - **Virtualization & Containers:** Docker, VirtualBox.
 - **Automation & Scripting:** Bash, Terraform, Ansible, Oracle Linux Automation Manager.
