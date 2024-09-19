@@ -1,7 +1,12 @@
-:sparkles: **PONNI SAJEEVAN**
+### :sparkles: Ponni Sajeevan
 
 
 
+### 📫 Contact Me
+
+- Email: [ponnisajeevan12@gmail.com](mailto:ponnisajeevan12@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ponni-sajeevan-4213447b/)
+- GitHub: [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/ponnisajeevan12)
 
 ### :trophy: Stats
 
