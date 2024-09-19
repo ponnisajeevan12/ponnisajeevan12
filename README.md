@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing 
 ### 🔧 System Administration
 - **Server Setup & Configuration:** RHEL, Ubuntu, CentOS, OEL.
 - **Webserver Management:** Apache, Nginx.
-- **Patch Management:** Oracle Linux Manager| Spacewalk
+- **Patch Management:** Oracle Linux Manager| Spacewalk.
 - **Virtualization & Containers:** Docker, VirtualBox.
 - **Automation & Scripting:** Bash, Python, Ansible, Oracle Linux Automation Manager.
 - **Security:** Firewall, SELinux, SSH hardening, Vulnerability Assessments (Nessus).
-- **Monitoring:** Big Brother | Zabbix | Nagios
+- **Monitoring:** Big Brother | Zabbix | Nagios.
 
 ### 🌐 Web Hosting Services
 - **Control Panels:** cPanel, Plesk
