@@ -1,4 +1,6 @@
-## :sparkles: **Ponni Sajeevan** - 🌐 Linux Web Hosting & System Administrator
+## :sparkles: **Ponni Sajeevan** 🌐 Linux Web Hosting & System Administrator
+
+Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing in web hosting, server management, and automation.
 
 #### 🛠️ Technologies & Tools that I use:
 
@@ -12,8 +14,9 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) 
 
 ![Oracle Linux Manager](https://img.shields.io/badge/Oracle%20Linux%20Manager-FF2D00?style=flat-square&logo=oracle&logoColor=white)
-![Spacewalk](https://img.shields.io/badge/Spacewalk-0072C6?style=flat-square&logo=spacewalk&logoColor=white)
+![Red Hat Satellite](https://img.shields.io/badge/Red%20Hat%20Satellite-9C0E2E?style=flat-square&logo=redhat&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-193B5D?style=flat-square&logo=virtualbox&logoColor=white)
 
@@ -43,8 +46,6 @@
 
 ![Let's Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-03A857?style=flat-square&logo=letsencrypt&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-FF5C00?style=flat-square&logo=openssl&logoColor=white)
-
-Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing in web hosting, server management, and automation.
 
 ## 🛠️ Skills & Expertise
 
