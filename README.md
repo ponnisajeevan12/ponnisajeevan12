@@ -1,6 +1,4 @@
-## :sparkles: **Ponni Sajeevan**
-
-## 🌐 Linux Web Hosting & System Administration
+## :sparkles: **Ponni Sajeevan** - 🌐 Linux Web Hosting & System Administrator
 
 #### 🛠️ Technologies & Tools that I use:
 
