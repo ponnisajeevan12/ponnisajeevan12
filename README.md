@@ -63,11 +63,11 @@ Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing 
 - **Monitoring:** Big Brother | Zabbix | Nagios.
 
 ### 🌐 Web Hosting Services
-- **Control Panels:** cPanel, Plesk
-- **Mail Management:** Zimbra, Exim, Postfix, QMail
-- **Antispam Management:** Spamtitan, PineApp
+- **Control Panels:** cPanel, Plesk.
+- **Mail Management:** Zimbra, Exim, Postfix, QMail.
+- **Antispam Management:** Spamtitan, PineApp.
 - **Website Deployment:** PHP, HTML.
-- **Database Management:** MySQL, PostgreSQL
+- **Database Management:** MySQL, PostgreSQL.
 - **DNS & Domain Management:** Bind9, Cloudflare, Route53.
 - **SSL/TLS Certificates:** Let's Encrypt, OpenSSL.
 
