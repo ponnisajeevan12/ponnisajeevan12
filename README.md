@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing in web hosting, server management, and automation.
 
-#### 🛠️ Technologies & Tools that I use:
+### 🛠️ Technologies & Tools that I use:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 ![RHEL](https://img.shields.io/badge/RHEL-CC0000?style=flat-square&logo=redhat&logoColor=white)
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a **Linux System Administrator** specializing 
 ![Let's Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-03A857?style=flat-square&logo=letsencrypt&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-FF5C00?style=flat-square&logo=openssl&logoColor=white)
 
-## 🛠️ Skills & Expertise
+### 🛠️ Skills & Expertise
 
 ### 🔧 System Administration
 - **Server Setup & Configuration:** RHEL, Ubuntu, CentOS, OEL.
