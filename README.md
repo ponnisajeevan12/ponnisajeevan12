@@ -3,7 +3,7 @@
 
 
 
-### !trophy: Stats
+### :trophy: Stats
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ponnisajeevan12&layout=compact&count_private=true)
 
