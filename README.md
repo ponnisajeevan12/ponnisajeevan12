@@ -4,9 +4,10 @@
 
 ### 📫 Contact Me
 
-- Email: [ponnisajeevan12@gmail.com](mailto:ponnisajeevan12@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ponni-sajeevan-4213447b/)
-- GitHub: [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/ponnisajeevan12)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-ponnisajeevan12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponni-sajeevan-4213447b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ponnisajeevan12)
+
 
 ### :trophy: Stats
 
