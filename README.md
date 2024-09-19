@@ -1,8 +1,8 @@
-### :sparkles: ****Ponni Sajeevan******
+## :sparkles: **Ponni Sajeevan**
 
 ## 🌐 Linux Web Hosting & System Administration
 
-# 🛠️ Technologies & Tools
+#### 🛠️ Technologies & Tools that I use:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 ![RHEL](https://img.shields.io/badge/RHEL-CC0000?style=flat-square&logo=redhat&logoColor=white)
